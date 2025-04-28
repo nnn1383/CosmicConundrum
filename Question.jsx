@@ -1,7 +1,10 @@
 import { createRoot } from "react-dom/client"
+import './styles.css'
 
 export default function Question() {
     return (
-        <p>Ask away~</p>
+        <>
+            <input type="button" value="Start Adventure" className="start-button"></input>
+        </>
     )
 }
