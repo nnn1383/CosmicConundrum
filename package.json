@@ -1,4 +1,9 @@
 {
+  // "homepage": "https://nnn1383.github.io/CosmicConundrum/",
+  // "scripts": {
+  // "predeploy": "npm run build",
+  // "deploy": "gh-pages -d build"
+  // },
   "name": "cosmicconundrum",
   "private": true,
   "version": "0.0.0",
