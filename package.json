@@ -1,19 +1,17 @@
 {
-  // "homepage": "https://nnn1383.github.io/CosmicConundrum/",
-  // "scripts": {
-  // "predeploy": "npm run build",
-  // "deploy": "gh-pages -d build"
-  // },
+  "homepage": "https://github.com/nnn1383/cosmic-conundrum.git",
+  "scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
+  },
   "name": "cosmicconundrum",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
-  },
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
